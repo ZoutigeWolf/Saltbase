@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "MonaSans";
+    src: url("Mona-Sans.woff2") format("woff2");
+}                         
+
+@font-face {
+    font-family: "JetBrainsMono";
+    src: url("JetBrainsMono.ttf") format("truetype");
+}
+
+body {
+    font-family: MonaSans;
+}
